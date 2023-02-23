@@ -1,2 +1,2 @@
-# ibm-ds-lab
-Labs for learning data science tools
+# ibm-ds-labs
+Labs for learning data science tools/IBM Data Science Professional Certificate
