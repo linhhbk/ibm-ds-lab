@@ -7,4 +7,4 @@ Labs for learning data science tools/IBM Data Science Professional Certificate
 - [`WebScraping_Review_Lab.ipynb`](WebScraping_Review_Lab.ipynb): a lab on scraping data from a website, using BeautifulSoup and Pandas APIs 
 - [`WorkingWithDifferentFileTypes.ipynb`](WorkingWithDifferentFileTypes.ipynb): a lab on working with different file formats (json, csv, xlsx, xml) 
 - [`Lab_From_Understanding_to_Preparation.ipynb`](Lab_From_Understanding_to_Preparation.ipynb): a lab on data understanding and data preparation (cleansing and transformation)
-- [`Lab_From_Modeling_to_Evaluation.ipynb`](Lab_From_Modeling_to_Evaluation.ipynb): a lab on building and evaluating a predictive model, namely a decision tree for cuisine prediction based on ingredients
+- [`Lab_From_Modeling_to_Evaluation.ipynb`](Lab_From_Modeling_to_Evaluation.ipynb): a lab on building and evaluating a predictive model, namely a decision tree classification for cuisine prediction based on ingredients
