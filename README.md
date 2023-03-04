@@ -9,4 +9,4 @@ Labs for learning data science tools/IBM Data Science Professional Certificate
 - [`Lab_From_Understanding_to_Preparation.ipynb`](Lab_From_Understanding_to_Preparation.ipynb): a lab on data understanding and data preparation (cleansing and transformation)
 - [`Lab_From_Modeling_to_Evaluation.ipynb`](Lab_From_Modeling_to_Evaluation.ipynb): a lab on building and evaluating a predictive model, namely a decision tree classification for cuisine prediction based on ingredients
 - [`Extract_Stock_Data_Using_Python_Library.ipynb`](Extract_Stock_Data_Using_Python_Library.ipynb): a lab on extracting stock data using a Python library ([yfinacne](https://aroussi.com/post/python-yahoo-finance))
-- [`Extract_Stock_Data_Using_Python_Library.ipynb`](Extract_Stock_Data_Using_Python_Library.ipynb): a lab on extracting stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and Pandas
+- [`Extract_Stock_Data_Using_Webscraping.ipynb`](Extract_Stock_Data_Using_Webscraping.ipynb): a lab on extracting stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and Pandas
