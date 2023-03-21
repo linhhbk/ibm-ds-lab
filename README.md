@@ -16,3 +16,4 @@ Labs for learning data science tools/IBM Data Science Professional Certificate
 - [`C9.Mulitple-Linear-Regression-CO2Emission.ipynb`](C9.Mulitple-Linear-Regression-CO2Emission.ipynb): a lab on using scikit-learn to implement a Multiple Linear Regression model for predicting the CO2 emission of cars
 - [`C9.Logistic-Regression-customer-churn-prediction.ipynb`](C9.Logistic-Regression-customer-churn-prediction.ipynb): use scikit-learn to build a Logistic Regression model for customer churn prediction
 - [`C9.SVM-cancer-prediction.ipynb`](C9.SVM-cancer-prediction.ipynb): use Support Vector Machine (scikit-learn) for cancer prediction
+- [`C9.Multi-class-Classification-Iris.ipynb`](C9.Multi-class-Classification-Iris.ipynb): Multi-class Classification on the Iris dataset with Softmax Regression, One-vs-All, and One-vs-One
