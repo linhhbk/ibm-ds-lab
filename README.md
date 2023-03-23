@@ -13,6 +13,7 @@ Labs for learning data science tools/IBM Data Science Professional Certificate
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): a lab on building a dashboard for stock data
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): KNN for customer categorization (classification)
 - [`C9.Decision-Trees-drug.ipynb`](C9.Decision-Trees-drug.ipynb): Decision Tree for drug prediction for patients
+- [`C9.Regression-Trees-house-price.ipynb`](C9.Regression-Trees-house-price.ipynb): Regression Tree for house price prediction 
 - [`C9.K-Means-Customer-Segmentation.ipynb`](C9.K-Means-Customer-Segmentation.ipynb): K-means clustering (scikit-learn) for customer segmentation
 - [`C9.Simple-Linear-Regression-CO2Emission.ipynb`](C9.Simple-Linear-Regression-CO2Emission.ipynb): Linear Regression (scikit-learn) for CO2 emission of cars
 - [`C9.Mulitple-Linear-Regression-CO2Emission.ipynb`](C9.Mulitple-Linear-Regression-CO2Emission.ipynb): Multiple Linear Regression (scikit-learn) for predicting the CO2 emission of cars
