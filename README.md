@@ -11,6 +11,7 @@ Labs for learning data science tools/IBM Data Science Professional Certificate
 - [`Extract_Stock_Data_Using_Python_Library.ipynb`](Extract_Stock_Data_Using_Python_Library.ipynb): a lab on extracting stock data using a Python library ([yfinacne](https://aroussi.com/post/python-yahoo-finance))
 - [`Extract_Stock_Data_Using_Webscraping.ipynb`](Extract_Stock_Data_Using_Webscraping.ipynb): a lab on extracting stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and Pandas
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): a lab on building a dashboard for stock data
+- [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): using KNN for customer categorization (classification)
 - [`C9.K-Means-Customer-Segmentation.ipynb`](C9.K-Means-Customer-Segmentation.ipynb): a lab on using K-means clustering algorithm for customer segmentation
 - [`C9.Simple-Linear-Regression-CO2Emission.ipynb`](C9.Simple-Linear-Regression-CO2Emission.ipynb): a lab on using scikit-learn to implement a simple Linear Regression model for CO2 emission of cars
 - [`C9.Mulitple-Linear-Regression-CO2Emission.ipynb`](C9.Mulitple-Linear-Regression-CO2Emission.ipynb): a lab on using scikit-learn to implement a Multiple Linear Regression model for predicting the CO2 emission of cars
