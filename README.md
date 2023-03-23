@@ -12,9 +12,9 @@ Labs for learning data science tools/IBM Data Science Professional Certificate
 - [`Extract_Stock_Data_Using_Webscraping.ipynb`](Extract_Stock_Data_Using_Webscraping.ipynb): a lab on extracting stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and Pandas
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): a lab on building a dashboard for stock data
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): using KNN for customer categorization (classification)
-- [`C9.K-Means-Customer-Segmentation.ipynb`](C9.K-Means-Customer-Segmentation.ipynb): a lab on using K-means clustering algorithm for customer segmentation
-- [`C9.Simple-Linear-Regression-CO2Emission.ipynb`](C9.Simple-Linear-Regression-CO2Emission.ipynb): a lab on using scikit-learn to implement a simple Linear Regression model for CO2 emission of cars
-- [`C9.Mulitple-Linear-Regression-CO2Emission.ipynb`](C9.Mulitple-Linear-Regression-CO2Emission.ipynb): a lab on using scikit-learn to implement a Multiple Linear Regression model for predicting the CO2 emission of cars
-- [`C9.Logistic-Regression-customer-churn-prediction.ipynb`](C9.Logistic-Regression-customer-churn-prediction.ipynb): use scikit-learn to build a Logistic Regression model for customer churn prediction
+- [`C9.K-Means-Customer-Segmentation.ipynb`](C9.K-Means-Customer-Segmentation.ipynb): using K-means clustering (scikit-learn) for customer segmentation
+- [`C9.Simple-Linear-Regression-CO2Emission.ipynb`](C9.Simple-Linear-Regression-CO2Emission.ipynb): using Linear Regression (scikit-learn) for CO2 emission of cars
+- [`C9.Mulitple-Linear-Regression-CO2Emission.ipynb`](C9.Mulitple-Linear-Regression-CO2Emission.ipynb): using Multiple Linear Regression (scikit-learn) for predicting the CO2 emission of cars
+- [`C9.Logistic-Regression-customer-churn-prediction.ipynb`](C9.Logistic-Regression-customer-churn-prediction.ipynb): using Logistic Regression (scikit-learn) for customer churn prediction
 - [`C9.SVM-cancer-prediction.ipynb`](C9.SVM-cancer-prediction.ipynb): use Support Vector Machine (scikit-learn) for cancer prediction
 - [`C9.Multi-class-Classification-Iris.ipynb`](C9.Multi-class-Classification-Iris.ipynb): Multi-class Classification on the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) with Softmax Regression, One-vs-All, and One-vs-One
