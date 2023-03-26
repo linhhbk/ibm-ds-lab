@@ -11,6 +11,7 @@ Labs for learning data science tools/IBM Data Science Professional Certificate
 - [`Extract_Stock_Data_Using_Python_Library.ipynb`](Extract_Stock_Data_Using_Python_Library.ipynb): a lab on extracting stock data using a Python library ([yfinacne](https://aroussi.com/post/python-yahoo-finance))
 - [`Extract_Stock_Data_Using_Webscraping.ipynb`](Extract_Stock_Data_Using_Webscraping.ipynb): a lab on extracting stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and Pandas
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): a lab on building a dashboard for stock data
+- [`C6.Data-Wrangling-automobile_dataset.ipynb`](C6.Data-Wrangling-automobile_dataset.ipynb): Data Wrangling on the [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) 
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): KNN for customer categorization (classification)
 - [`C9.Decision-Trees-drug.ipynb`](C9.Decision-Trees-drug.ipynb): Decision Tree for drug prediction for patients
 - [`C9.Regression-Trees-house-price.ipynb`](C9.Regression-Trees-house-price.ipynb): Regression Tree for house price prediction 
