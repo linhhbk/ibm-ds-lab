@@ -13,6 +13,7 @@ Labs for learning data science tools/IBM Data Science Professional Certificate
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): a lab on building a dashboard for stock data
 - [`C7W2.Data-Wrangling-automobile_dataset.ipynb`](C7W2.Data-Wrangling-automobile_dataset.ipynb): Data Wrangling on the [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) 
 - [`C7W3.Exploratory-Data-Analysis.ipynb`](C7W3.Exploratory-Data-Analysis.ipynb): Exploratory Data Analysis on the Automobile Dataset, uncover relationships between variables and extract features with the most impact
+- [`C7W4.Model-Development.ipynb`](C7W4.Model-Development.ipynb): Model Development on the [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset), a comparison between Simple Linear Regression, Mutiple Linear Regression, and Polynomial Regression
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): KNN for customer categorization (classification)
 - [`C9.Decision-Trees-drug.ipynb`](C9.Decision-Trees-drug.ipynb): Decision Tree for drug prediction for patients
 - [`C9.Regression-Trees-house-price.ipynb`](C9.Regression-Trees-house-price.ipynb): Regression Tree for house price prediction 
