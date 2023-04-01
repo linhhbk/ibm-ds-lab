@@ -28,6 +28,8 @@ Dataset: Immigration to Canada from 1980 to 2013 (accessible from [here](https:/
 - [`C8W1.Introduction-to-Matplotlib-and-LinePlots.ipynb`](C8W1.Introduction-to-Matplotlib-and-LinePlots.ipynb): understand the dataset, Immigration to Canada from 1980 to 2013, and practice Line Plots 
 - [`C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb`](C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb): Area Plots, Histograms, and Bar Charts
 - [`C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb`](C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb): Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
+-[`C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb`](C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb): Waffle Charts, Word Clouds, and Regression Plots
+-[`C8W3B.Exercise-Generating-Maps-in-Python.ipynb`](C8W3B.Exercise-Generating-Maps-in-Python.ipynb): Visualizing geospatial data, Choropleth Maps 
 
 ## Machine Learning with Python
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): KNN for customer categorization (classification)
