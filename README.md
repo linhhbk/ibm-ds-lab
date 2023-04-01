@@ -10,7 +10,7 @@ Hands-on labs on data science tools
 
 ## Data Science Methodology
 - [`Lab_From_Understanding_to_Preparation.ipynb`](Lab_From_Understanding_to_Preparation.ipynb): understand and prepare data (data cleansing and transformation)
-- [`Lab_From_Modeling_to_Evaluation.ipynb`](Lab_From_Modeling_to_Evaluation.ipynb): build and evaluate a predictive model, namely a decision tree classification for cuisine prediction based on ingredients
+- [`Lab_From_Modeling_to_Evaluation.ipynb`](Lab_From_Modeling_to_Evaluation.ipynb): build and evaluate a predictive model, namely a decision tree classification, for cuisine prediction based on ingredients
 - [`Extract_Stock_Data_Using_Python_Library.ipynb`](Extract_Stock_Data_Using_Python_Library.ipynb): extract stock data using a Python library ([yfinacne](https://aroussi.com/post/python-yahoo-finance))
 - [`Extract_Stock_Data_Using_Webscraping.ipynb`](Extract_Stock_Data_Using_Webscraping.ipynb): extract stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and Pandas
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): build a dashboard for stock data
