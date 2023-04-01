@@ -26,8 +26,8 @@ Dataset: [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile
 ## Data Visualization with Python 
 Dataset: Immigration to Canada from 1980 to 2013 (accessible from [here](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Canada.xlsx?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDV0101ENSkillsNetwork20297740-2021-01-01))
 - [`C8W1.Introduction-to-Matplotlib.ipynb`](C8W1.Introduction-to-Matplotlib.ipynb): understand the dataset, Immigration to Canada from 1980 to 2013 
-- [`C8W2.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb`](C8W2.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb): Area Plots, Histograms, and Bar Charts
-- [`C8W3.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb`](C8W3.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb): Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
+- [`C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb`](C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb): Area Plots, Histograms, and Bar Charts
+- [`C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb`](C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb): Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
 
 ## Machine Learning with Python
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): KNN for customer categorization (classification)
