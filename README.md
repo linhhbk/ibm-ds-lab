@@ -2,11 +2,11 @@
 Hands-on labs on data science tools
 
 ## Python for Data Science, AI & Development
-- [`Pandas_LoadData.ipynb`](Pandas_LoadData.ipynb): a lab on loading data into Pandas dataframes and Pandas series  
-- [`Pandas_Practice.ipynb`](Pandas_Practice.ipynb): a lab on selecting data in Pandas dataframes
-- [`rest_api_coingecko.ipynb`](rest_api_coingecko.ipynb): a lab on using a REST API called [CoinGecko](https://www.coingecko.com/en/api) to create a candlestick graph for Bitcoin 
-- [`WebScraping_Review_Lab.ipynb`](WebScraping_Review_Lab.ipynb): a lab on scraping data from a website using Pandas and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), a Python library for pulling data out of HTML and XML files
-- [`WorkingWithDifferentFileTypes.ipynb`](WorkingWithDifferentFileTypes.ipynb): a lab on working with different file formats (json, csv, xlsx, xml) 
+- [`Pandas_LoadData.ipynb`](Pandas_LoadData.ipynb): loading data into Pandas dataframes and Pandas series  
+- [`Pandas_Practice.ipynb`](Pandas_Practice.ipynb): selecting data in Pandas dataframes
+- [`rest_api_coingecko.ipynb`](rest_api_coingecko.ipynb): using a REST API, [CoinGecko](https://www.coingecko.com/en/api), to create a candlestick graph for Bitcoin 
+- [`WebScraping_Review_Lab.ipynb`](WebScraping_Review_Lab.ipynb): scraping data from a website using Pandas and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), a Python library for pulling data out of HTML and XML files
+- [`WorkingWithDifferentFileTypes.ipynb`](WorkingWithDifferentFileTypes.ipynb): working with different file formats (json, csv, xlsx, xml) 
 
 ## Data Science Methodology
 - [`Lab_From_Understanding_to_Preparation.ipynb`](Lab_From_Understanding_to_Preparation.ipynb): understand and prepare data (data cleansing and transformation)
