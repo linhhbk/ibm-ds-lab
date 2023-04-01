@@ -16,10 +16,11 @@ Hands-on labs on data science tools
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): build a dashboard for stock data
 
 ## Data Analysis with Python
-- [`C7W2.Data-Wrangling-automobile_dataset.ipynb`](C7W2.Data-Wrangling-automobile_dataset.ipynb): Data Wrangling on the [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset): handle missing values, correct data format, standardize and normalize data 
-- [`C7W3.Exploratory-Data-Analysis.ipynb`](C7W3.Exploratory-Data-Analysis.ipynb): Exploratory Data Analysis on the [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset), uncover relationships between variables and extract features with the most impact
-- [`C7W4.Model-Development.ipynb`](C7W4.Model-Development.ipynb): Model Development on the [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset), a comparison between Simple Linear Regression, Mutiple Linear Regression, and Polynomial Regression
-- [`C7W5.Model-Evaluation-and-Refinement.ipynb`](C7W5.Model-Evaluation-and-Refinement.ipynb): Model Evluation and Refinement on the [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) -- Over-fitting, Under-fitting,  Model Selection, Ridge Regression, Grid Search
+Dataset: [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) on Kaggle
+- [`C7W2.Data-Wrangling-automobile_dataset.ipynb`](C7W2.Data-Wrangling-automobile_dataset.ipynb): Data Wrangling -- handle missing values, correct data format, standardize and normalize data 
+- [`C7W3.Exploratory-Data-Analysis.ipynb`](C7W3.Exploratory-Data-Analysis.ipynb): Exploratory Data Analysis -- uncover relationships between variables and extract features with the most impact
+- [`C7W4.Model-Development.ipynb`](C7W4.Model-Development.ipynb): Model Development -- a comparison between Simple Linear Regression, Mutiple Linear Regression, and Polynomial Regression
+- [`C7W5.Model-Evaluation-and-Refinement.ipynb`](C7W5.Model-Evaluation-and-Refinement.ipynb): Model Evluation and Refinement -- Over-fitting, Under-fitting,  Model Selection, Ridge Regression, Grid Search
 - [`C7W6.Final-Project-House_Sales_in_King_Count_USA.ipynb`](C7W6.Final-Project-House_Sales_in_King_Count_USA.ipynb): final project of Course 7, develop regression models for predicting [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01)
 
 ## Data Visualization with Python 
