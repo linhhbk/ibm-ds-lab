@@ -43,7 +43,7 @@ Datasets:
 - [`C9.Regression-Trees-house-price.ipynb`](C9.Regression-Trees-house-price.ipynb): Regression Tree for house price prediction 
 - [`C9.K-Means-Customer-Segmentation.ipynb`](C9.K-Means-Customer-Segmentation.ipynb): K-means clustering (scikit-learn) for customer segmentation
 - [`C9.Simple-Linear-Regression-CO2Emission.ipynb`](C9.Simple-Linear-Regression-CO2Emission.ipynb): Linear Regression (scikit-learn) for CO2 emission of cars
-- [`C9.Mulitple-Linear-Regression-CO2Emission.ipynb`](C9.Mulitple-Linear-Regression-CO2Emission.ipynb): Multiple Linear Regression (scikit-learn) for predicting the CO2 emission of cars
+- [`C9.Mulitple-Linear-Regression-CO2Emission.ipynb`](C9.Mulitple-Linear-Regression-CO2Emission.ipynb): Multiple Linear Regression (sklearn) for CO2 emission of cars
 - [`C9.Logistic-Regression-customer-churn.ipynb`](C9.Logistic-Regression-customer-churn.ipynb): Logistic Regression (scikit-learn) for customer churn prediction
 - [`C9.SVM-cancer-prediction.ipynb`](C9.SVM-cancer-prediction.ipynb): Support Vector Machine (scikit-learn) for cancer prediction
 - [`C9.Multi-class-Classification-Iris.ipynb`](C9.Multi-class-Classification-Iris.ipynb): Multi-class Classification on the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) with Softmax Regression, One-vs-All, and One-vs-One
