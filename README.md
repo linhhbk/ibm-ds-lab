@@ -33,7 +33,8 @@ Datasets:
 - [`C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb`](C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb): Waffle Charts (built from scratch), Word Clouds (using [wordcloud](http://amueller.github.io/word_cloud/)), and Regression Plots (using [Seaborn](https://seaborn.pydata.org/examples/index.html))
 - [`C8W3B.Exercise-Generating-Maps-in-Python.ipynb`](C8W3B.Exercise-Generating-Maps-in-Python.ipynb): Visualizing geospatial data using [Folium](https://github.com/python-visualization/folium) and Choropleth Maps 
 - [`C8W4A.Plotly_Basics.ipynb`](C8W4A.Plotly_Basics.ipynb): understand the dataset, Airline Reporting Carrier On-Time Performance Dataset, and using [Plotly](https://plotly.com/python/) for creating different types of charts
-- [`C8W4B.Dash_basics.py`](C8W4B.Dash_basics.py): Creating a basic dashboard with [Dash](https://dash.gallery/Portal/) using HTML and core components. (see the output [here](C8W4B.Dash_basics.png))
+- [`C8W4B.Dash_basics.py`](C8W4B.Dash_basics.py): Creating a basic dashboard with [Dash](https://dash.gallery/Portal/) using HTML and core components (see the output [here](C8W4B.Dash_basics.png))
+- [`C8W4C.Dash_interactivity.py`](C8W4C.Dash_interactivity.py): Added a lab on creating an interactive dashboard using Dash (see the output [here](C8W4C.Dash_interactivity.png))
 
 ## Machine Learning with Python
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): KNN for customer categorization (classification)
