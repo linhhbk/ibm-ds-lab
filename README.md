@@ -31,8 +31,9 @@ Datasets:
 - [`C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb`](C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb): Area Plots, Histograms, and Bar Charts using [Matplotlib](https://matplotlib.org/stable/gallery/index)
 - [`C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb`](C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb): Pie Charts, Box Plots, Scatter Plots, and Bubble Plots using [Matplotlib](https://matplotlib.org/stable/gallery/index)
 - [`C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb`](C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb): Waffle Charts (built from scratch), Word Clouds (using [wordcloud](http://amueller.github.io/word_cloud/)), and Regression Plots (using [Seaborn](https://seaborn.pydata.org/examples/index.html))
-- [`C8W3B.Exercise-Generating-Maps-in-Python.ipynb`](C8W3B.Exercise-Generating-Maps-in-Python.ipynb): Visualizing geospatial data, Choropleth Maps 
-- [`C8W4A.Plotly_Basics.ipynb`](C8W4A.Plotly_Basics.ipynb): get to know the dataset, Airline Reporting Carrier On-Time Performance Dataset, and using [Plotly](https://plotly.com/python/) for creating different types of charts
+- [`C8W3B.Exercise-Generating-Maps-in-Python.ipynb`](C8W3B.Exercise-Generating-Maps-in-Python.ipynb): Visualizing geospatial data using [Folium](https://github.com/python-visualization/folium) and Choropleth Maps 
+- [`C8W4A.Plotly_Basics.ipynb`](C8W4A.Plotly_Basics.ipynb): understand the dataset, Airline Reporting Carrier On-Time Performance Dataset, and using [Plotly](https://plotly.com/python/) for creating different types of charts
+- [`C8W4B.Dash_basics.py`](C8W4B.Dash_basics.py): Creating a basic dashboard with [Dash](https://dash.gallery/Portal/) using HTML and core components. (see the output [here](C8W4B.Dash_basics.png))
 
 ## Machine Learning with Python
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): KNN for customer categorization (classification)
