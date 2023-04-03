@@ -36,6 +36,7 @@ Datasets:
 - [`C8W4B.Dash_basics.py`](C8W4B.Dash_basics.py): Creating a basic dashboard with [Dash](https://dash.gallery/Portal/) (see the output [here](C8W4B.Dash_basics.png))
 - [`C8W4C.Dash_interactivity.py`](C8W4C.Dash_interactivity.py): Creating an interactive dashboard using Dash (see the output [here](C8W4C.Dash_interactivity.png))
 - [`C8W4D.Dash_flight_details.py`](C8W4D.Dash_interactive_flight_details.py): Creating an interactive dashboard for flight details (see the output [here](C8W4D.Dash_interactive_flight_details.png))
+- [`C8W5A.Dashboard_Automobile.py`](C8W5A.Dashboard_Automobile.py): Interactive, web-based dashboard for [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) (see the output [here](C8W5A.Dashboard_Automobile.png))
 
 ## Machine Learning with Python
 - [`C9.K-Nearest-neighbors-CustomerCategorization.ipynb`](C9.K-Nearest-neighbors-CustomerCategorization.ipynb): KNN for customer categorization (classification)
