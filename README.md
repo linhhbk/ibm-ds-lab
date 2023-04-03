@@ -47,5 +47,5 @@ Datasets:
 - [`C9.Mulitple-Linear-Regression-CO2Emission.ipynb`](C9.Mulitple-Linear-Regression-CO2Emission.ipynb): Multiple Linear Regression (sklearn) for CO2 emission of cars
 - [`C9.Logistic-Regression-customer-churn.ipynb`](C9.Logistic-Regression-customer-churn.ipynb): Logistic Regression (scikit-learn) for customer churn prediction
 - [`C9.SVM-cancer-prediction.ipynb`](C9.SVM-cancer-prediction.ipynb): Support Vector Machine (scikit-learn) for cancer prediction
-- [`C9.Multi-class-Classification-Iris.ipynb`](C9.Multi-class-Classification-Iris.ipynb): Multi-class Classification on the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) with Softmax Regression, One-vs-All, and One-vs-One
+- [`C9.Multi-class-Classification-Iris.ipynb`](C9.Multi-class-Classification-Iris.ipynb): Multi-class Classification with Softmax Regression, One-vs-All, and One-vs-One on [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
 - [`C9.Credit_Card_Fraud_sklearn_vs_snapml.ipynb`](C9.Credit_Card_Fraud_sklearn_vs_snapml.ipynb): Decision Tree and SVM for [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), a comparison between [Scikit-learn](https://scikit-learn.org/stable/) and [Snap ML](https://www.zurich.ibm.com/snapml/) libraries
