@@ -1,5 +1,5 @@
 # IBM Data Science Professional Certificate
-Hands-on labs on data science tools
+Hands-on labs to learn data science tools
 
 ## Python for Data Science, AI & Development
 - [`Pandas_LoadData.ipynb`](Pandas_LoadData.ipynb): loading data into Pandas dataframes and Pandas series  
