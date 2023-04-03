@@ -12,7 +12,7 @@ Hands-on labs on data science tools
 - [`Lab_From_Understanding_to_Preparation.ipynb`](Lab_From_Understanding_to_Preparation.ipynb): understand and prepare data (data cleansing and transformation)
 - [`Lab_From_Modeling_to_Evaluation.ipynb`](Lab_From_Modeling_to_Evaluation.ipynb): build and evaluate a predictive model, namely a decision tree classification, for cuisine prediction based on ingredients
 - [`Extract_Stock_Data_Using_Python_Library.ipynb`](Extract_Stock_Data_Using_Python_Library.ipynb): extract stock data using a Python library ([yfinacne](https://aroussi.com/post/python-yahoo-finance))
-- [`Extract_Stock_Data_Using_Webscraping.ipynb`](Extract_Stock_Data_Using_Webscraping.ipynb): extract stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and Pandas
+- [`Extract_Stock_Data_Using_Webscraping.ipynb`](Extract_Stock_Data_Using_Webscraping.ipynb): extract stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): build a dashboard for stock data
 
 ## Data Analysis with Python
@@ -28,11 +28,11 @@ Datasets:
 [`Immigration to Canada (1980-2013)`](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Canada.xlsx?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDV0101ENSkillsNetwork20297740-2021-01-01) and 
 [`Airline Reporting Carrier On-Time Performance (1987-2020)`](https://developer.ibm.com/exchanges/data/all/airline/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDV0101ENSkillsNetwork970-2022-01-01&cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork-20297740&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ)
 - [`C8W1.Introduction-to-Matplotlib-and-LinePlots.ipynb`](C8W1.Introduction-to-Matplotlib-and-LinePlots.ipynb): Line Plots using [Matplotlib](https://matplotlib.org/stable/gallery/index) on the Immigration to Canada (1980-2013) dataset 
-- [`C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb`](C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb): Area Plots, Histograms, and Bar Charts using [Matplotlib](https://matplotlib.org/stable/gallery/index)
-- [`C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb`](C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb): Pie Charts, Box Plots, Scatter Plots, and Bubble Plots using [Matplotlib](https://matplotlib.org/stable/gallery/index)
-- [`C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb`](C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb): Waffle Charts (built from scratch), Word Clouds (using [wordcloud](http://amueller.github.io/word_cloud/)), and Regression Plots (using [Seaborn](https://seaborn.pydata.org/examples/index.html))
-- [`C8W3B.Exercise-Generating-Maps-in-Python.ipynb`](C8W3B.Exercise-Generating-Maps-in-Python.ipynb): Visualizing geospatial data using [Folium](https://github.com/python-visualization/folium) and Choropleth Maps 
-- [`C8W4A.Plotly_Basics.ipynb`](C8W4A.Plotly_Basics.ipynb): Creating different types of charts using [Plotly](https://plotly.com/python/) on the Airline Reporting Carrier On-Time Performance Dataset
+- [`C8W2A.AreaPlots-Histograms-and-BarCharts.ipynb`](C8W2A.Exercise-AreaPlots-Histograms-and-BarCharts.ipynb): Area Plots, Histograms, and Bar Charts using [Matplotlib](https://matplotlib.org/stable/gallery/index)
+- [`C8W2B.PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb`](C8W2B.Exercise-PieCharts-BoxPlots-ScatterPlots-and-BubblePlots.ipynb): Pie Charts, Box Plots, Scatter Plots, and Bubble Plots using [Matplotlib](https://matplotlib.org/stable/gallery/index)
+- [`C8W3A.Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb`](C8W3A.Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots.ipynb): Waffle Charts (built from scratch), Word Clouds (using [wordcloud](http://amueller.github.io/word_cloud/)), and Regression Plots (using [Seaborn](https://seaborn.pydata.org/examples/index.html))
+- [`C8W3B.Generating-Maps-in-Python.ipynb`](C8W3B.Exercise-Generating-Maps-in-Python.ipynb): Visualizing geospatial data using [Folium](https://github.com/python-visualization/folium) and Choropleth Maps 
+- [`C8W4A.Plotly_Basics.ipynb`](C8W4A.Plotly_Basics.ipynb): Plotting with [Plotly](https://plotly.com/python/) on the Airline Reporting Carrier On-Time Performance Dataset
 - [`C8W4B.Dash_basics.py`](C8W4B.Dash_basics.py): Creating a basic dashboard with [Dash](https://dash.gallery/Portal/) (see the output [here](C8W4B.Dash_basics.png))
 - [`C8W4C.Dash_interactivity.py`](C8W4C.Dash_interactivity.py): Creating an interactive dashboard using Dash (see the output [here](C8W4C.Dash_interactivity.png))
 
