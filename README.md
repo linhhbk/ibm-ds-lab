@@ -16,9 +16,10 @@ Hands-on labs to learn data science tools
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): build a dashboard for stock data
 
 ## Databases and SQL for Data Science with Python
-- [`C6W311`](C6-Week3-1-1-Connecting-v4-py.ipynb): Connect to Db2 database on Cloud using Python
-- [`C6W312`](C6-Week3-1-2-Querying-v4-py.ipynb): Access DB2 on Cloud using Python
-- [`C6W313`](C6-Week3-1-3-SQLmagic-v3-py.ipynb): Accessing Databases within a Jupyter notebok using SQL Magic Commands 
+- [`C6W311`](C6-Week3-1-1-Connecting-v4-py.ipynb): Connect to a database (Db2 on IBM Cloud) using Python
+- [`C6W312`](C6-Week3-1-2-Querying-v4-py.ipynb): Access DB2 on IBM Cloud using Python DB-API
+- [`C6W313`](C6-Week3-1-3-SQLmagic-v3-py.ipynb): Access a database (Db2 on IBM Cloud) using SQL magic commands in a Jupyter notebok 
+- [`C6W314`](C6-Week3-1-4-Analyzing-v5-py.ipynb): Analyze a [dataset](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork22-2022-01-01) of selected socioeconomic indicators in Chicago with SQL and Python
 
 ## Data Analysis with Python
 Dataset: [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) on Kaggle
