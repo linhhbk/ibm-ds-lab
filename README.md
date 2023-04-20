@@ -15,6 +15,11 @@ Hands-on labs to learn data science tools
 - [`Extract_Stock_Data_Using_Webscraping.ipynb`](Extract_Stock_Data_Using_Webscraping.ipynb): extract stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [`Building_a_Dashboard_for_Stock_Data.ipynb`](Building_a_Dashboard_for_Stock_Data.ipynb): build a dashboard for stock data
 
+## Databases and SQL for Data Science with Python
+- [`C6W311`](C6-Week3-1-1-Connecting-v4-py.ipynb): Connect to Db2 database on Cloud using Python
+- [`C6W312`](C6-Week3-1-2-Querying-v4-py.ipynb): Access DB2 on Cloud using Python
+- [`C6W313`](C6-Week3-1-3-SQLmagic-v3-py.ipynb): Accessing Databases with SQL Magic Commands within a Jupyter notebok
+
 ## Data Analysis with Python
 Dataset: [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) on Kaggle
 - [`C7W2.Data-Wrangling-automobile_dataset.ipynb`](C7W2.Data-Wrangling-automobile_dataset.ipynb): Data Wrangling -- handle missing values, correct data format, standardize and normalize data 
