@@ -5,12 +5,12 @@ Following are hands-on labs of this program, organized by topics.
 - [`Ex01`](Pandas_LoadData.ipynb): loading data into Pandas dataframes and Pandas series  
 - [`Ex02`](Pandas_Practice.ipynb): selecting data in Pandas dataframes
 - [`Ex03`](rest_api_coingecko.ipynb): using a REST API, [CoinGecko](https://www.coingecko.com/en/api), to create a candlestick graph for Bitcoin 
-- [`Ex04`](WebScraping_Review_Lab.ipynb): scraping data from a website using Pandas and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), a Python library for pulling data out of HTML and XML files
+- [`Ex04`](WebScraping_Review_Lab.ipynb): scraping data from a website using Pandas and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [`Ex05`](WorkingWithDifferentFileTypes.ipynb): working with different file formats (json, csv, xlsx, xml) 
 
 ## Data Science Methodology
 - [`Lab1`](Lab_From_Understanding_to_Preparation.ipynb): practice on data cleansing and data transformation
-- [`Lab2`](Lab_From_Modeling_to_Evaluation.ipynb): build and evaluate a predictive model, a decision tree classifier, for cuisine prediction based on ingredients
+- [`Lab2`](Lab_From_Modeling_to_Evaluation.ipynb): build a decision tree classifier for cuisine prediction based on ingredients
 - [`Lab3`](Extract_Stock_Data_Using_Python_Library.ipynb): extract stock data using a Python library ([yfinacne](https://aroussi.com/post/python-yahoo-finance))
 - [`Lab4`](Extract_Stock_Data_Using_Webscraping.ipynb): extract stock data using webscraping via [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [`Lab5`](Building_a_Dashboard_for_Stock_Data.ipynb): build a dashboard for stock data
@@ -25,10 +25,10 @@ Following are hands-on labs of this program, organized by topics.
 
 ## Data Analysis with Python
 Dataset: [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) on Kaggle
-- [`C7W2`](C7W2.Data-Wrangling-automobile_dataset.ipynb): Data Wrangling -- handle missing values, correct data format, standardize and normalize data 
-- [`C7W3`](C7W3.Exploratory-Data-Analysis.ipynb): Exploratory Data Analysis -- uncover relationships between variables and extract features with the most impact
-- [`C7W4`](C7W4.Model-Development.ipynb): Model Development -- a comparison between Simple Linear Regression, Mutiple Linear Regression, and Polynomial Regression
-- [`C7W5`](C7W5.Model-Evaluation-and-Refinement.ipynb): Model Evluation and Refinement -- Over-fitting, Under-fitting,  Model Selection, Ridge Regression, Grid Search
+- [`C7W2`](C7W2.Data-Wrangling-automobile_dataset.ipynb): Data Wrangling - handle missing values, correct data format, standardize and normalize data 
+- [`C7W3`](C7W3.Exploratory-Data-Analysis.ipynb): Exploratory Data Analysis - uncover variables' relationships and extract features with the most impact
+- [`C7W4`](C7W4.Model-Development.ipynb): Model Development - a comparison between Simple Linear Regression, Mutiple Linear Regression, and Polynomial Regression
+- [`C7W5`](C7W5.Model-Evaluation-and-Refinement.ipynb): Evaluation and Refinement - Over-fitting, Under-fitting,  Model Selection, Ridge Regression, Grid Search
 - [`C7W6`](C7W6.Final-Project-House_Sales_in_King_Count_USA.ipynb): final project of Course 7, develop regression models for predicting [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01)
 
 ## Data Visualization with Python 
@@ -42,7 +42,7 @@ Datasets:
 - [`C8W3B`](C8W3B.Exercise-Generating-Maps-in-Python.ipynb): Visualizing geospatial data using [Folium](https://github.com/python-visualization/folium) and Choropleth Maps 
 - [`C8W4A`](C8W4A.Plotly_Basics.ipynb): Plotting with [Plotly](https://plotly.com/python/) on the Airline Reporting Carrier On-Time Performance Dataset
 - [`C8W4B`](C8W4B.Dash_basics.py): Creating a basic dashboard with [Dash](https://dash.gallery/Portal/) (see the output [here](C8W4B.Dash_basics.png))
-- [`C8W4C.Dash_interactivity.py`](C8W4C.Dash_interactivity.py): Creating an interactive dashboard using Dash (see the output [here](C8W4C.Dash_interactivity.png))
+- [`C8W4C`](C8W4C.Dash_interactivity.py): Creating an interactive dashboard using Dash (see the output [here](C8W4C.Dash_interactivity.png))
 - [`C8W4D`](C8W4D.Dash_interactive_flight_details.py): Creating an interactive dashboard for flight details (see the output [here](C8W4D.Dash_interactive_flight_details.png))
 - [`C8W5A`](C8W5A.Dashboard_Automobile.py): Interactive, web-based dashboard for [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) (see the output [here](C8W5A.Dashboard_Automobile.png))
 - [`C8W5B`](C8W5B.Dashboard_Flights.py): Interactive, web-based dashboard for [Flights Dataset](https://developer.ibm.com/exchanges/data/all/airline/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDV0101ENSkillsNetwork970-2022-01-01&cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork-20297740&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ) (see the output [here](C8.Final_Assignment.png))
@@ -57,4 +57,4 @@ Datasets:
 - [`C9Ex07`](C9.Logistic-Regression-customer-churn.ipynb): Logistic Regression (scikit-learn) for customer churn prediction
 - [`C9Ex08`](C9.SVM-cancer-prediction.ipynb): Support Vector Machine (scikit-learn) for cancer prediction
 - [`C9Ex09`](C9.Multi-class-Classification-Iris.ipynb): Multi-class Classification with Softmax Regression, One-vs-All, and One-vs-One on [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
-- [`C9Ex10`](C9.Credit_Card_Fraud_sklearn_vs_snapml.ipynb): Decision Tree and SVM for [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), a comparison between [Scikit-learn](https://scikit-learn.org/stable/) and [Snap ML](https://www.zurich.ibm.com/snapml/) libraries
+- [`C9Ex10`](C9.Credit_Card_Fraud_sklearn_vs_snapml.ipynb): Decision Tree and SVM for [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), comparing [Scikit-learn](https://scikit-learn.org/stable/) and [Snap ML](https://www.zurich.ibm.com/snapml/) libraries
